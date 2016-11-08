@@ -1,0 +1,7 @@
+App.config = {
+    app: 'app',
+    env: 'development', //or production
+    dependecies: [
+        'MathUtil', 'MathCommand', 'Calculator'
+    ]
+}
